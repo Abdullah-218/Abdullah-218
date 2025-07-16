@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Passionate Backend Developer | MERN Stack | AIML Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Abdullah
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-218" />
@@ -12,76 +17,60 @@
 - 🚀 Currently working on **MERN + AI integrated projects**
 - 🛡️ **Intel AI MediLocker (Team Leader):**
    - AI-powered medical platform with OTP-secured patient records
-   - Side-effect prediction, symptom-specialist mapping, automated digital prescriptions with dosage scheduling
+   - Side-effect prediction, symptom-specialist mapping, automated digital prescriptions
    - Built using **Supabase backend** and **Flutter frontend**
    - 🏆 Selected **Top 50 / 1000+ teams** in **Unisys Innovation Challenge**
 
 ---
 
 ### 🛠️ Tech Stack:
-#### 🚀 Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### 📦 Frameworks / Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-#### 🛢️ Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-#### ⚙️ Backend & APIs:
-- RESTful APIs
-- Express Middleware
-- JWT / Session Authentication
-- CORS Management
-
-#### 🔧 Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,flask,django,mongodb,mysql,git,github,postman,linux,visualstudio" />
+</p>
 
 ---
 
 ### 📚 Currently Learning:
 - 📊 Data Structures & Algorithms in Java
 - 🤖 Machine Learning integrations for backend systems
-- AI Related Stuffs
+- AI/ML related technologies
 
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-218&show_icons=true&theme=dark" alt="Abdullah's github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-218&theme=dark" alt="Abdullah-218 streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-218&layout=compact&theme=dark" alt="Abdullah-218 top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-218&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Abdullah-218 GitHub Stats"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-218&theme=dark&hide_border=true" alt="Abdullah-218 GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-218&layout=compact&theme=dark&hide_border=true" alt="Abdullah-218 Top Languages"/>
+</p>
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect With Me:
 <p align="center">
   <a href="http://www.linkedin.com/in/abdullahxdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/abdullxh_08/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40px"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:abdullahoffl2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px"/>
   </a>
 </p>
 
 ---
 
-<p align="center">🚀 Let's build something impactful together!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"/>
+</p>
+
+<p align="center">
+  🚀 Let's build something impactful together!
+</p>
