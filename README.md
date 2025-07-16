@@ -65,12 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-218&layout=compact&theme=dark" alt="Abdullah-218 top languages"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-218&theme=darkhub&no-bg=true&no-frame=true" alt="trophies">
-</p>
 
 ---
 
