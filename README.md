@@ -55,6 +55,7 @@
 ### 📚 Currently Learning:
 - 📊 Data Structures & Algorithms in Java
 - 🤖 Machine Learning integrations for backend systems
+- AI Related Stuffs
 
 ---
 
