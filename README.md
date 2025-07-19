@@ -20,8 +20,10 @@
 
 <br/>
 
-- 📍 **Location:** <b>Pondicherry, India</b>  
-- 💻 **Focus:** Building advanced <b>MERN Stack + AI integrated solutions</b>.  
+- 📍 **Location:** <b>Pondicherry, India</b>
+
+- 💻 **Focus:** Building advanced <b>MERN Stack + AI integrated solutions</b>.
+
 - 🛡️ **Role:** <b>Team Leader</b> – <i>Intel AI MediLocker</i>  
 
 <br/>
