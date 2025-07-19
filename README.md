@@ -1,4 +1,4 @@
-<h1 align="center">Hey Devs 👋, I'm <b>Abdullah</b></h1>
+<h1 align="center">Heyy Devps 👋, I'm <b>Abdullah</b></h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
