@@ -1,13 +1,15 @@
-<h1 align="center">Heyy Devps 👋, I'm <b>Abdullah</b></h1>
+<table width="100%">
+  <tr>
+    <td><h1 align="left"><b>𝐇𝐞𝐲 𝐃𝐞𝐯𝐬 👋, 𝐈'𝐦 𝐀𝐛𝐝𝐮𝐥𝐥𝐚𝐡</b></h1></td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 <b>About Me</b>
