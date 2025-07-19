@@ -10,36 +10,37 @@
 
 ---
 
-## 🚀 <span style="color:#FF7F50"><b>About Me</b></span>
+## 🚀 About Me
 
 <div align="center">
 
-<h3>
-  <b><i>Backend Developer &nbsp; | &nbsp; MERN Stack Engineer &nbsp; | &nbsp; AI / ML Enthusiast</i></b>
-</h3>
-
-<p>
-📍 <b>Location:</b> <span style="color:#00BFFF"><b>Pondicherry, India</b></span>  
-  
-💼 <b>Currently Working On:</b> <span style="color:#00FF7F"><b>MERN Stack + AI Integrated Projects</b></span>  
-
-🚀 <b>Project Lead - Intel AI MediLocker</b>  
-</p>
-
-<b>
-🔒 OTP-secured medical platform  
-  
-🧠 AI-based side-effect prediction & specialist mapping  
-
-📝 Auto-generated digital prescriptions with dosage schedules  
-
-⚙️ Backend: Supabase &nbsp; | &nbsp; Frontend: Flutter  
-
-🏆 Ranked Top 50 / 1000+ teams – Unisys Innovation Challenge  - PRE FINALIST
-
-</b>
+### <b>Backend Developer | MERN Stack Engineer | AI / ML Enthusiast</b>
 
 </div>
+
+**📍 Location:** Pondicherry, India  
+
+**Current Focus:** Building advanced **MERN Stack + AI integrated projects**. 
+
+**Role:** <b>Team Leader</b> of Intel AI MediLocker.
+
+---
+
+**Intel AI MediLocker – Key Highlights:**
+
+- Secure OTP-based access to medical records.
+- AI-driven side-effect prediction & symptom-to-specialist mapping.
+- Automated digital prescriptions with dosage scheduling.
+- Backend: <b>Supabase</b> &nbsp; | &nbsp; Frontend: <b>Flutter</b>.
+- Ranked in **Top 50 / 1000+ teams** at **Unisys Innovation Challenge (Pre-Finalist)**.
+
+---
+
+<b>Currently Enhancing:</b>
+
+- Data Structures & Algorithms in <b>Java</b>.
+- AI / ML backend integrations.
+- Advanced MERN-based system architecture.
 
 ---
 
