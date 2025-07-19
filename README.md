@@ -1,50 +1,50 @@
-<h1 align="center">Heyy Devs 👋, I'm Abdullah</h1>
+<h1 align="center">Hey Devs 👋, I'm <b>Abdullah</b></h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 <b>About Me</b>
 
 <div align="center">
 
-### <b>Backend Developer | MERN Stack Engineer | AI / ML Enthusiast</b>
+### <b><i>Backend Developer &nbsp;|&nbsp; MERN Stack Engineer &nbsp;|&nbsp; AI / ML Enthusiast</i></b>
 
 </div>
 
-**📍 Location:** Pondicherry, India  
+<br/>
 
-**Current Focus:** Building advanced **MERN Stack + AI integrated projects**. 
+- 📍 **Location:** <b>Pondicherry, India</b>  
+- 💻 **Focus:** Building advanced <b>MERN Stack + AI integrated solutions</b>.  
+- 🛡️ **Role:** <b>Team Leader</b> – <i>Intel AI MediLocker</i>  
 
-**Role:** <b>Team Leader</b> of Intel AI MediLocker.
+<br/>
 
----
+### 🏆 <b>Intel AI MediLocker – Highlights:</b>
 
-**Intel AI MediLocker – Key Highlights:**
-
-- Secure OTP-based access to medical records.
-- AI-driven side-effect prediction & symptom-to-specialist mapping.
-- Automated digital prescriptions with dosage scheduling.
-- Backend: <b>Supabase</b> &nbsp; | &nbsp; Frontend: <b>Flutter</b>.
-- Ranked in **Top 50 / 1000+ teams** at **Unisys Innovation Challenge (Pre-Finalist)**.
-
----
-
-<b>Currently Enhancing:</b>
-
-- Data Structures & Algorithms in <b>Java</b>.
-- AI / ML backend integrations.
-- Advanced MERN-based system architecture.
+- 🔐 <b>OTP-secured medical platform</b> for patients' history access.
+- 🧠 AI-powered <b>side-effect prediction</b> and <b>symptom-specialist mapping</b>.
+- 📝 Automated digital prescriptions with intelligent dosage scheduling.
+- ⚙️ Backend: <b>Supabase</b> &nbsp; | &nbsp; Frontend: <b>Flutter</b>.
+- 🏅 Ranked <b>Top 50 / 1000+ teams</b> – <i>Unisys Innovation Challenge (Pre-Finalist)</i>.
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 <b>Currently Exploring</b>
+
+- 📊 Data Structures & Algorithms (Java)  
+- 🤖 AI/ML Integrations for intelligent backends  
+- 🚀 Advanced Backend + AI architectures
+
+---
+
+## 🛠️ <b>Tech Stack</b>
 
 <div align="center">
 
@@ -58,24 +58,12 @@
     <td align="center"><b>Tools</b></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,flutter" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,django" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,cpp,js" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,flutter" height="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask,django" height="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,cpp,js" height="50"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" height="50"/></td>
   </tr>
 </table>
 
@@ -83,15 +71,7 @@
 
 ---
 
-## 📚 Currently Exploring
-
-- Data Structures & Algorithms (Java)  
-- Machine Learning integrations for backend intelligence  
-- Advanced backend + AI architectures  
-
----
-
-## 📈 GitHub Stats
+## 📈 <b>GitHub Stats</b>
 
 <div align="center">
 
@@ -104,19 +84,21 @@
 
 ---
 
-## 🏆 Coding Profiles
+## 🏆 <b>Competitive Programming</b>
 
-<p align="center">
-  <a href="https://leetcode.com/u/abdullxh_08/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://leetcode.com/u/abdullxh_08/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
+</a>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 <b>Connect With Me</b>
 
-<p align="center">
+<div align="center">
 
 <a href="http://www.linkedin.com/in/abdullahxdev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45">
@@ -126,10 +108,10 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45">
 </a>
 
-</p>
+</div>
 
 ---
 
 <p align="center">
-  🚀 Let's innovate and build impactful solutions together!
+  🚀 <b>Let's innovate and build impactful solutions together!</b>
 </p>
