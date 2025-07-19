@@ -115,26 +115,3 @@
 <p align="center">
   🚀 Let's innovate and build impactful solutions together!
 </p>
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Abdullah-218/Intel-AI-MediLocker" target="_blank">
-  <img src="https://raw.githubusercontent.com/Abdullah-218/Intel-AI-MediLocker/main/assets/project-demo.gif" alt="Intel AI MediLocker Demo" style="border-radius:10px" width="80%"/>
-</a>
-<br/>
-<b>Intel AI MediLocker</b>  
-AI-powered medical platform using MERN + Supabase + AI integrations.
-
----
-
-<a href="https://github.com/Abdullah-218/Another-Project" target="_blank">
-  <img src="https://raw.githubusercontent.com/Abdullah-218/Another-Project/main/assets/demo.gif" alt="Another Project Demo" style="border-radius:10px" width="80%"/>
-</a>
-<br/>
-<b>Project Title</b>  
-Short description about the project.
-
-</div>
