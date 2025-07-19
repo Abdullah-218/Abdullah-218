@@ -10,10 +10,12 @@
 
 ---
 
-## 🔥 About Me
+## 🚹 About Me
 
 - 🎓 Based in **Pondicherry, India**
+
 - 💻 Focused on **MERN Stack & AI integrated projects**
+  
 - 🛡️ **Intel AI MediLocker – Team Leader**
    - OTP-secured patient medical platform.
    - Side-effect prediction, symptom-specialist mapping, auto digital prescriptions.
