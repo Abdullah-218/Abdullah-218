@@ -1,7 +1,7 @@
 <h1 align="center">Heyy Devs 👋, I'm Abdullah</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -13,50 +13,63 @@
 ## 🚀 About Me
 
 <p align="center">
-  <b>Backend Developer | MERN Stack | AI/ML Enthusiast</b>
+  <b>Backend Developer | MERN Stack Engineer | AI/ML Enthusiast</b>
 </p>
 
-- 📍 Based in <b>Pondicherry, India</b>  
-- 💼 Focused on <b>MERN Stack</b> & <b>AI integrated projects</b>  
-- 🛡️ <b>Intel AI MediLocker – Team Leader:</b>  
-   - Secure medical platform with OTP login  
-   - AI-based side-effect prediction & auto-generated digital prescriptions  
-   - Backend powered by <b>Supabase</b>, frontend built using <b>Flutter</b>  
-   - Selected in <b>Top 50 / 1000+</b> teams in <b>Unisys Innovation Challenge</b>  
+- 📍 Based in **Pondicherry, India**  
+- 💼 Focused on **MERN Stack & AI-integrated projects**  
+- 🛡️ **Intel AI MediLocker – Team Leader**  
+   - OTP-secured medical data platform  
+   - Side-effect prediction, auto-digital prescriptions  
+   - Backend: **Supabase**, Frontend: **Flutter**  
+   - Selected in **Top 50 / 1000+** teams in **Unisys Innovation Challenge**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=react,flutter" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🧩 Frameworks / APIs
-<img src="https://skillicons.dev/icons?i=flask,django" />
-
-### 🛢️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,js" />
-
-### 🛠️ Tools / Others
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frameworks</b></td>
+    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,flutter" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask,django" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,cpp,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📚 What I'm Currently Learning
+## 📚 Currently Exploring
 
-- 📊 Data Structures & Algorithms using Java  
-- 🤖 Machine Learning integrations for backend systems  
-- 🚀 Expanding backend-AI fusion expertise  
+- Data Structures & Algorithms (Java)  
+- Machine Learning integrations for backend intelligence  
+- Advanced backend + AI architectures  
 
 ---
 
@@ -73,26 +86,32 @@
 
 ---
 
+## 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/abdullxh_08/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
+  </a>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="http://www.linkedin.com/in/abdullahxdev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45">
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/abdullxh_08/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:abdullahoffl2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45">
 </a>
 
-</div>
+</p>
 
 ---
 
 <p align="center">
-  🚀 Let's innovate and build solutions that create real-world impact!
+  🚀 Let's innovate and build impactful solutions together!
 </p>
