@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1><b>Hey Devs 👋, I'm Abdullah</b></h1>
-
-<img src="https://komarev.com/ghpvc/?username=Abdullah-218&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<h1><b><span style="font-family: 'Fira Code', monospace; font-size: 35px;">Heyy Devps 👋, I'm <span style="color:#f7f7f7;">Abdullah</span></span></b></h1>
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
