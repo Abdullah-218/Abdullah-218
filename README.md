@@ -31,17 +31,23 @@
 ### 🏆 <b>Intel AI MediLocker – Highlights:</b>
 
 - 🔐 <b>OTP-secured medical platform</b> for patients' history access.
+  
 - 🧠 AI-powered <b>side-effect prediction</b> and <b>symptom-specialist mapping</b>.
+  
 - 📝 Automated digital prescriptions with intelligent dosage scheduling.
+  
 - ⚙️ Backend: <b>Supabase</b> &nbsp; | &nbsp; Frontend: <b>Flutter</b>.
+  
 - 🏅 Ranked <b>Top 50 / 1000+ teams</b> – <i>Unisys Innovation Challenge (Pre-Finalist)</i>.
 
 ---
 
 ## 📚 <b>Currently Exploring</b>
 
-- 📊 Data Structures & Algorithms (Java)  
-- 🤖 AI/ML Integrations for intelligent backends  
+- 📊 Data Structures & Algorithms (Java)
+  
+- 🤖 AI/ML Integrations for intelligent backends
+  
 - 🚀 Advanced Backend + AI architectures
 
 ---
