@@ -20,16 +20,23 @@
 
 <p>
 📍 <b>Location:</b> <span style="color:#00BFFF"><b>Pondicherry, India</b></span>  
+  
 💼 <b>Currently Working On:</b> <span style="color:#00FF7F"><b>MERN Stack + AI Integrated Projects</b></span>  
+
 🚀 <b>Project Lead - Intel AI MediLocker</b>  
 </p>
 
 <b>
 🔒 OTP-secured medical platform  
+  
 🧠 AI-based side-effect prediction & specialist mapping  
+
 📝 Auto-generated digital prescriptions with dosage schedules  
+
 ⚙️ Backend: Supabase &nbsp; | &nbsp; Frontend: Flutter  
-🏆 Ranked Top 50 / 1000+ teams – Unisys Innovation Challenge  
+
+🏆 Ranked Top 50 / 1000+ teams – Unisys Innovation Challenge  - PRE FINALIST
+
 </b>
 
 </div>
