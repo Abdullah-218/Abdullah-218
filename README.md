@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%94%A5;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Engineer;AI+%26+ML+Enthusiast;Building+Intelligent+Systems;Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,10 +21,7 @@
 
 ---
 
-<!-- About Me Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header"/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## About Me
 
 ```yaml
 name        : Abdullah
@@ -32,91 +29,58 @@ location    : Pondicherry, India
 role        : Backend Developer | MERN Stack Engineer | AI Enthusiast
 focus       : MERN Stack + AI Integrated Solutions
 status      : Exploring AI/ML, Backend Architectures & DSA (Java)
-achievement : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
-              Finalist — INCEPTO Hackathon
+highlights  : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
               NPTEL Domain Star | Top 2% in DSA (Java) Nationwide
+              1M1B AI + Sustainability Intern — IBM SkillsBuild
 ```
 
 <details>
-<summary><b>🔍 More About Me</b></summary>
+<summary><b>More About Me</b></summary>
 <br/>
 
-- 🛡️ **Team Leader** @ *Intel AI MediLocker* — AI-powered healthcare platform  
-- 🤖 Passionate about building **intelligent backend systems** with real-world impact  
-- 📊 Currently deep-diving into **DSA with Java**, **AI/ML integrations**, and **agentic AI architectures**  
-- 🏅 **NPTEL Domain Star** — 50+ weeks of CS domain | **Elite badge** holder  
-- 🌱 1M1B AI + Sustainability Intern (IBM SkillsBuild) — March 2025  
-- ⚡ Fun fact: I turn coffee into scalable REST APIs ☕ → 🔧  
+- **Team Leader** @ *Intel AI MediLocker* — AI-powered healthcare platform
+- Passionate about building **intelligent backend systems** with real-world impact
+- Currently deep-diving into **DSA with Java**, **AI/ML integrations**, and **agentic AI architectures**
+- **NPTEL Domain Star** — 50+ weeks of CS domain | **Elite badge** holder
+- 1M1B AI + Sustainability Intern (IBM SkillsBuild) — March 2025
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-<!-- Project Cards -->
-
-### 🧠 Intel AI MediLocker
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=Intel-AI-MediLocker&theme=tokyonight&hide_border=true)](https://github.com/Abdullah-218)
+[![Intel AI MediLocker](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=Intel-AI-MediLocker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
+[![Multi-Tenant Blog](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=multi-tenant-blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
+[![CareerPilot AI](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=CareerPilot-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
 
 </div>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Intel AI MediLocker</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">Intel AI MediLocker</h3>
       <p align="center"><code>Flutter</code> <code>Supabase</code> <code>Python ML</code></p>
       <p>AI-powered healthcare platform with OTP authentication, secure medical records, drug interaction & allergy detection. ML-based side-effect prediction, specialist mapping, and digital prescription automation.</p>
-      <p>🏅 <b>Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)</b></p>
-      <p>📅 Apr 2025 – May 2025 &nbsp;|&nbsp; 👤 Team Leader</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 Multi-Tenant MERN Blogging Platform</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">Multi-Tenant MERN Blog</h3>
       <p align="center"><code>MERN</code> <code>JWT</code> <code>Docker</code></p>
-      <p>Production-style multi-tenant institutional blogging platform with role-based access (Super Admin → Org Admin → Dept Admin → Verified Users) and hierarchical content governance. Scalable REST APIs with MongoDB relational modeling.</p>
-      <p>📅 Nov 2025 – Dec 2025 &nbsp;|&nbsp; 👤 Full Stack Developer</p>
+      <p>Production-style multi-tenant institutional blogging platform with role-based access (Super Admin to Verified Users) and hierarchical content governance. Scalable REST APIs with MongoDB relational modeling.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 CareerPilot AI</h3>
-      <p align="center"><code>Python</code> <code>MERN</code> <code>Groq LLM</code></p>
-      <p>Agentic AI Career Navigation System with multi-agent orchestration. Analyzes user profiles, evaluates market demand, generates personalized learning roadmaps, with persistent state tracking and continuous feedback loops.</p>
-      <p>🏅 <b>Finalist — INCEPTO Hackathon</b></p>
-      <p>📅 Jan 2026 – Feb 2026 &nbsp;|&nbsp; 👤 Agent Developer</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔭 What's Next?</h3>
-      <p align="center">Always building something new...</p>
-      <br/>
-      <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=280&lines=Advanced+AI+Architectures...;Agentic+Systems...;Scalable+Backends...;Stay+tuned+%F0%9F%9A%80" />
-      </p>
+    <td width="33%" valign="top">
+      <h3 align="center">CareerPilot AI</h3>
+      <p align="center"><code>Python</code> <code>MERN</code> <code>REST API</code></p>
+      <p>Agentic AI Career Navigation System with multi-agent orchestration. Analyzes user profiles, evaluates market demand, generates personalized learning roadmaps with persistent state tracking and continuous feedback loops.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 📅 Date | 🔗 Details |
-|---|---|---|
-| 🏅 **Unisys Innovation Challenge Pre-Finalist** | May 2025 | Top 50 / 1000+ nationally for Intel AI MediLocker |
-| 🤖 **1M1B AI + Sustainability Intern** | Mar 2025 | IBM SkillsBuild — AI-driven social impact |
-| ⭐ **NPTEL Domain Star** | Ongoing | 50+ weeks of CS Domain · Elite Badge |
-| 🥇 **NPTEL DSA (Java) — Top 2%** | Recent | Topper nationwide in Data Structures using Java |
-| 🏁 **INCEPTO Hackathon Finalist** | Feb 2026 | CareerPilot AI — autonomous career guidance |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -156,14 +120,13 @@ achievement : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
 
 **AI / ML**
 
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -174,16 +137,11 @@ achievement : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-218&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="40%"/>
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-218&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
 </div>
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
@@ -212,7 +170,7 @@ mindmap
 
 ---
 
-## 🏅 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -224,7 +182,7 @@ mindmap
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -251,12 +209,7 @@ mindmap
 
 <div align="center">
 
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br/><br/>
-
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20impactful%20together%20🚀&fontSize=18&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Code.%20Ship.%20Repeat.%20%E2%80%94%20Abdullah&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
