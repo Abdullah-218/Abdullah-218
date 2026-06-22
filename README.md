@@ -194,6 +194,6 @@ mindmap
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Code.%20Ship.%20Repeat.%20%E2%80%94%20Abdullah&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Code.%20Commit.%20Repeat.%20%E2%80%94%20Abdullah&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
