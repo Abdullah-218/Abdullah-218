@@ -30,8 +30,7 @@ role        : Backend Developer | MERN Stack Engineer | AI Enthusiast
 focus       : MERN Stack + AI Integrated Solutions
 status      : Exploring AI/ML, Backend Architectures & DSA (Java)
 highlights  : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
-              NPTEL Domain Star | Top 2% in DSA (Java) Nationwide
-              1M1B AI + Sustainability Intern — IBM SkillsBuild
+              Top 2% in DSA (Java) Nationwide
 ```
 
 <details>
@@ -50,30 +49,24 @@ highlights  : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
 
 ## Featured Projects
 
-<div align="center">
-
-[![Intel AI MediLocker](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=Intel-AI-MediLocker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
-[![Multi-Tenant Blog](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=multi-tenant-blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
-[![CareerPilot AI](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-218&repo=CareerPilot-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Abdullah-218)
-
-</div>
-
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Intel AI MediLocker</h3>
+      <p align="center"><i>Smart Medical Report and Prediction App</i></p>
       <p align="center"><code>Flutter</code> <code>Supabase</code> <code>Python ML</code></p>
-      <p>AI-powered healthcare platform with OTP authentication, secure medical records, drug interaction & allergy detection. ML-based side-effect prediction, specialist mapping, and digital prescription automation.</p>
+      <p>Built an AI-powered healthcare platform with OTP authentication, secure medical records, and drug interaction & allergy detection. Implemented ML-based side-effect prediction, specialist mapping, and digital prescription automation; led a 4-member team.</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Multi-Tenant MERN Blog</h3>
+      <h3 align="center">Multi-Tenant MERN Blogging Platform</h3>
       <p align="center"><code>MERN</code> <code>JWT</code> <code>Docker</code></p>
-      <p>Production-style multi-tenant institutional blogging platform with role-based access (Super Admin to Verified Users) and hierarchical content governance. Scalable REST APIs with MongoDB relational modeling.</p>
+      <p>Developed a production-style multi-tenant institutional blogging platform featuring role-based access (Super Admin, Org Admin, Dept Admin, Verified Users) and hierarchical content governance. Engineered scalable REST APIs, verification workflows, and organization-scoped publishing with MongoDB relational modeling.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">CareerPilot AI</h3>
+      <p align="center"><i>Agentic Career Navigation Platform</i></p>
       <p align="center"><code>Python</code> <code>MERN</code> <code>REST API</code></p>
-      <p>Agentic AI Career Navigation System with multi-agent orchestration. Analyzes user profiles, evaluates market demand, generates personalized learning roadmaps with persistent state tracking and continuous feedback loops.</p>
+      <p>Built an Agentic AI Career Navigation System that analyzes user profiles, evaluates market demand, and generates personalized learning roadmaps using multi-agent orchestration. Implemented readiness assessment, market intelligence, rerouting, and action evaluation with persistent state tracking.</p>
     </td>
   </tr>
 </table>
@@ -193,15 +186,6 @@ mindmap
 <a href="mailto:abdullahoffl2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45">
 </a>
-
-<br/><br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-218/Abdullah-218/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-218/Abdullah-218/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdullah-218/Abdullah-218/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
