@@ -51,23 +51,55 @@ highlights  : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Intel AI MediLocker</h3>
-      <p align="center"><i>Smart Medical Report and Prediction App</i></p>
-      <p align="center"><code>Flutter</code> <code>Supabase</code> <code>Python ML</code></p>
-      <p>Built an AI-powered healthcare platform with OTP authentication, secure medical records, and drug interaction & allergy detection. Implemented ML-based side-effect prediction, specialist mapping, and digital prescription automation; led a 4-member team.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Multi-Tenant MERN Blogging Platform</h3>
-      <p align="center"><code>MERN</code> <code>JWT</code> <code>Docker</code></p>
-      <p>Developed a production-style multi-tenant institutional blogging platform featuring role-based access (Super Admin, Org Admin, Dept Admin, Verified Users) and hierarchical content governance. Engineered scalable REST APIs, verification workflows, and organization-scoped publishing with MongoDB relational modeling.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">CareerPilot AI</h3>
-      <p align="center"><i>Agentic Career Navigation Platform</i></p>
-      <p align="center"><code>Python</code> <code>MERN</code> <code>REST API</code></p>
-      <p>Built an Agentic AI Career Navigation System that analyzes user profiles, evaluates market demand, and generates personalized learning roadmaps using multi-agent orchestration. Implemented readiness assessment, market intelligence, rerouting, and action evaluation with persistent state tracking.</p>
-    </td>
+    <td width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00c6ff,100:0072ff&height=55&section=header&text=Intel%20AI%20MediLocker&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+
+<p align="center"><i>Smart Medical Report and Prediction App</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20ML-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+> Built an AI-powered healthcare platform with OTP authentication, secure medical records, and drug interaction & allergy detection. Implemented ML-based side-effect prediction, specialist mapping, and digital prescription automation; led a 4-member team.
+
+</td>
+  </tr>
+  <tr>
+    <td width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:8e2de2,100:4a00e0&height=55&section=header&text=CareerPilot%20AI&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+
+<p align="center"><i>Agentic Career Navigation Platform</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+> Built an Agentic AI Career Navigation System that analyzes user profiles, evaluates market demand, and generates personalized learning roadmaps using multi-agent orchestration. Implemented readiness assessment, market intelligence, rerouting, and action evaluation with persistent state tracking.
+
+</td>
+  </tr>
+  <tr>
+    <td width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff512f,100:dd2476&height=55&section=header&text=Multi-Tenant%20Org%20Space&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+
+<p align="center"><i>Multi-Tenant MERN Blogging Platform</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+> Developed a production-style multi-tenant institutional blogging platform featuring role-based access (Super Admin, Org Admin, Dept Admin, Verified Users) and hierarchical content governance. Engineered scalable REST APIs, verification workflows, and organization-scoped publishing with MongoDB relational modeling.
+
+</td>
   </tr>
 </table>
 
@@ -94,7 +126,6 @@ highlights  : Pre-Finalist — Unisys Innovation Challenge (Top 50 / 1000+)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases**
 
@@ -194,6 +225,7 @@ mindmap
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Code.%20Commit.%20Repeat.%20%E2%80%94%20Abdullah&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Code-%20Commit-%20Repeat ~ %20%E2%80%94%20AbdxDev&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65"/>
+
 
 </div>
